@@ -1,5 +1,6 @@
 var NAVTREEINDEX12 =
 {
+"de/dcf/binary__exponent_8cpp.html":[10,0,14,4],
 "de/dcf/binary__exponent_8cpp.html#a31dbf5f7ceb9c9eec831ef9f7782291f":[10,0,14,4,1],
 "de/dcf/binary__exponent_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[10,0,14,4,2],
 "de/dcf/binary__exponent_8cpp.html#aeb48dce0725e63d19147944f41843c73":[10,0,14,4,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX12 =
 "functions.html":[9,3,0,0],
 "functions_a.html":[9,3,0,1],
 "functions_b.html":[9,3,0,2],
-"functions_c.html":[9,3,0,3],
-"functions_d.html":[9,3,0,4]
+"functions_c.html":[9,3,0,3]
 };

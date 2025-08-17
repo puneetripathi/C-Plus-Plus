@@ -1,5 +1,6 @@
 var NAVTREEINDEX11 =
 {
+"dd/d47/namespacemath.html#ae413098478fa38acaac887b7654f0725":[8,0,69,10],
 "dd/d47/namespacemath.html#aec65db4e5c7317323227f026fe50ef11":[8,0,69,16],
 "dd/d47/namespacemath.html#af05567415a9ea36c254b54e3d5a2152a":[8,0,69,41],
 "dd/d47/namespacemath.html#afa39ec943a4836c878e1614fd89b146f":[8,0,69,20],
@@ -248,6 +249,5 @@ var NAVTREEINDEX11 =
 "de/dcd/kadanes3_8cpp.html#a338439a04148ae89f695595acfa5c147":[10,0,17,8,1],
 "de/dcd/kadanes3_8cpp.html#aa8dca7b867074164d5f45b0f3851269d":[10,0,17,8,2],
 "de/dcd/kadanes3_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[10,0,17,8,0],
-"de/dcd/kadanes3_8cpp_source.html":[10,0,17,8],
-"de/dcf/binary__exponent_8cpp.html":[10,0,14,4]
+"de/dcd/kadanes3_8cpp_source.html":[10,0,17,8]
 };
